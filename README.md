@@ -1,4 +1,4 @@
-# 🚇 Smart Metro Ticketing System
+# 🚇 Metro Ticketing System
 
 A simple yet functional full-stack metro ticket booking application that allows users to check fares, generate tickets, and manage station entries/exits — all backed by a clean API and database design.
 
