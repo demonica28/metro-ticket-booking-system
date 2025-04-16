@@ -37,9 +37,11 @@ A simple yet functional full-stack metro ticket booking application that allows 
 
 ### Enter/Exit Station
 <img width="970" alt="image" src="https://github.com/user-attachments/assets/b151fb7a-d57a-4a5a-b451-8d9ae0bfdada" />
-<img width="970" alt="image" src="https://github.com/user-attachments/assets/0d0c2bf8-a825-4a74-8b56-0d14a033207f" />
+
 
 ###For dublicate entry
+![image](https://github.com/user-attachments/assets/4ee892a0-539d-4cdb-834d-9e57fd3dfc18)
+
 <img width="445" alt="Screenshot 2025-04-16 at 10 39 16 AM" src="https://github.com/user-attachments/assets/fc71ed7b-8a48-488a-b658-4fc20abf6d34" />
 
 ### Backend SS
