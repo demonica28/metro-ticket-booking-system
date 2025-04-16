@@ -40,12 +40,11 @@ A simple yet functional full-stack metro ticket booking application that allows 
 
 
 ###For dublicate entry
-![image](https://github.com/user-attachments/assets/4ee892a0-539d-4cdb-834d-9e57fd3dfc18)
-
+<img width="1017" alt="Screenshot 2025-04-16 at 10 45 18 AM" src="https://github.com/user-attachments/assets/545ea2ee-43f6-4388-b1d4-f3d798315ce9" />
 <img width="445" alt="Screenshot 2025-04-16 at 10 39 16 AM" src="https://github.com/user-attachments/assets/fc71ed7b-8a48-488a-b658-4fc20abf6d34" />
 
 ### Backend SS
-<img width="445" alt="Screenshot 2025-04-16 at 10 39 16 AM" src="https://github.com/user-attachments/assets/5a6eb9c3-66eb-47b6-ad2a-8813c4b3bb32" />
+<img width="1294" alt="image" src="https://github.com/user-attachments/assets/00c71476-1ab3-493d-af72-16d4474209b9" />
 
 
 ## 🚀 Getting Started
